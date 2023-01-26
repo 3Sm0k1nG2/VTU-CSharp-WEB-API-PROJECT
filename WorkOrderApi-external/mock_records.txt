@@ -1,0 +1,25 @@
+{
+  "id":"015a944f-1225-472e-3286-08dab67f0f80"
+  "wo": "A00XXX"
+  "district": "Southeast",
+  "leadtech": "Cartier",
+  "service": "Repair",
+  "rush": false,
+  "reqDate": "2022-10-25T11:46:06.805Z",
+  "workDate": "2022-10-25T11:46:06.805Z",
+  "techs": 1,
+  "wtyLbr": true,
+  "wtyParts": true,
+  "lbrHrs": 4.75,
+  "partsCost": 397.361,
+  "payment": "Warranty",
+  "wait": 30,
+  "lbrRate": 80,
+  "lbrCost": 380,
+  "lbrFee": 0,
+  "partsFee": 0,
+  "totalCost": 777.361,
+  "totalFee": 0,
+  "reqDay": "Sat",
+  "workDay": "Mon"
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "reason": "SQL Server service not running.",
+        "exception": {
+            "message": "A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 26 - Error Locating Server/Instance Specified)",
+            "source": "Core Microsoft SqlClient Data Provider",
+            "custom_provider": "SNI_PN11",
+            "custom_id": 26,
+            "innerException" : null
+        }
+    },
+    {
+        "reason": "Tried to insert duplicate key.",
+        "exception": {
+            "message": "An error occurred while saving the entity changes. See the inner exception for details.",
+            "source": "Microsoft.EntityFrameworkCore.Relational",
+            "custom_provider": null,
+            "custom_id": null,
+            "innerException": {
+                "message": "Cannot insert duplicate key row in object 'dbo.Districts' with unique index 'IX_Districts_Name'. The duplicate key value is (FIND_ME). \nThe statement has been terminated.",
+                "number": 2601
+            }
+        }
+    },
+    {
+        "reason": "Entity was not found.",
+        "exception" : {
+            "message": "Entity was not found.",
+            "source": "WorkOrders_DAL",
+            "custom_provider": null,
+            "custom_id": null,
+            "innerException": null
+        }
+    },
+    {
+        "type": null,
+        "title": null,
+        "status": 500,
+        "detail": null,
+        "instance": null
+    }
+]

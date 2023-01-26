@@ -1,0 +1,9 @@
+Да обединя ли подобните контролери в общ файл? - не
+Да обединя ли подобните модели в общ файл? - не
+Да обединя ли подобните repository-та в общ файл? - не
+
+Да направя ли отделен проект, който взема service-ите ReadRecordsFromExcel SaveToDb от този проект. И да му задам да се стартира от task schedule. - не
+(СЪЗДАЙ ЧИСТО НОВ ПРОЕКТ И ВИКАЙ TASK SCHEDULAR от windows)
+
+Auditable 
+git cut only API (and its history)

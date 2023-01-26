@@ -1,0 +1,33 @@
+https://www.contextures.com/xlsampledata01.html
+
+Sample Data - Work Orders
+This sample file has work orders data for an imaginary service company.
+
+There are 22 columns of data, including 9 columns with a calculation.
+There are 1000 rows of data in the work orders table.
+Each row shows these 13 manual entry fields:
+
+WO: unique work order ID
+District: geographic area where work will be done
+LeadTech: head technician at the work location
+Service: type of work to be done - Assess, Deliver, Install, Repair, Replace
+Rush: is this a rush job? Yes or blank
+ReqDate: date the work order was entered in system
+WokDate: date the work was completed
+Techs: number of technicians required
+WtyLbr: is labor under warranty? Yes or blank
+WtyParts: are parts under warranty? Yes or blank
+LbrHrs: for completed work orders - number of hours labour
+PartsCost: cost of parts required to complete the work
+Payment: type of payment customer will use - Account, C.O.D, Credit, P.O., Warranty
+Each row shows these 9 calculated fields:
+
+Wait: WorkDate - ReqDate
+LbrRate: hourly rate lookup, based on number of technicians
+LbrCost: LbrRate x LbrHrs
+LbrFee: labor cost, if not under warranty
+PartsFee: parts cost, if not under warranty
+TotalCost: LbrCost + PartsCost
+TotalFee: LbrFee +PartsFee
+ReqDay: 3-letter weekday name, based on ReqDate
+WorkDay: 3-letter weekday name, based on WorkDate

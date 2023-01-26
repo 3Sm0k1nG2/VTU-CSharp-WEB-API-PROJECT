@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L80haBm7ilV83z8kdRyJgOcr2rRMabwEWu+x5u7dI+k=",
+  "Source": "WorkOrderApi",
+  "BasePath": "_content/WorkOrderApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

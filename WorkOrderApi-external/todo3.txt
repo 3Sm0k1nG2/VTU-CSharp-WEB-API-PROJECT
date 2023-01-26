@@ -1,0 +1,16 @@
+Problems:
+  1. PUT request on WorkOrder (maybe on basic entities too) add the unknown entity string to Db (e.g. DistrictEntity has "Sugar" as Name, it is not in DB, so we add it automatically).
+  2. PUT request (maybe WorkOrderMapper(maybe on basic mapper too) updating all fields, not only the given ones (succesfully updates the given ones).
+
+Missings:
+  3. No Error Handler implemented yet.
+  4. No HttpResponse on ActionResult ( returns object, nothing more, nothing less.)
+
+Excel Logic:
+  5. Separate Excel Logic from DAL ( or have two DALS )
+(Currently ExcelService is ran in Controller. - should be extracted )
+  6. Build a schedular. (maybe, not required -> automatically call Excel to Db actions. - once a week, or a day.)
+
+ExcelService <--- Schedular ---> UnitOfWork(DbContext)
+Read excel  <--- schedule time ---> Save to database
+  

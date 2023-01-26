@@ -1,0 +1,5 @@
+schedular -> ExcelToDb (daily) (remove controller, only service called by the schedular)
+
+Repositority Pattern Entity Framework
+Generic Connection Entity Framework
+Unit of Work

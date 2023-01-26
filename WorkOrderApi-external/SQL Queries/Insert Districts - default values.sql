@@ -1,0 +1,21 @@
+INSERT INTO dbo.Districts (Name)
+VALUES	 ('East')
+		,('West')
+		,('North')
+		,('South')
+		,('Central')
+		,('Northeast')
+		,('Northwest')
+		,('Southeast')
+		,('Southwest');
+
+INSERT INTO dbo.Districts (Id, Name)
+VALUES	 (1,'East')
+		,(2,'West')
+		,(3,'North')
+		,(4,'South')
+		,(5,'Central')
+		,(6,'Northeast')
+		,(7,'Northwest')
+		,(8,'Southeast')
+		,(9,'Southwest');

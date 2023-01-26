@@ -1,0 +1,38 @@
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.csproj.AssemblyReference.cache
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.AssemblyInfoInputs.cache
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.AssemblyInfo.cs
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.csproj.CoreCompileInputs.cache
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\bin\Debug\net6.0\WorkOrders_DAL.deps.json
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\bin\Debug\net6.0\WorkOrders_DAL.runtimeconfig.json
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\bin\Debug\net6.0\WorkOrders_DAL.dll
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\bin\Debug\net6.0\WorkOrders_DAL.pdb
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\bin\Debug\net6.0\WorkOrders_BAL.dll
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\bin\Debug\net6.0\WorkOrders_BAL.pdb
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.csproj.CopyComplete
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.dll
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\refint\WorkOrders_DAL.dll
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.pdb
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.genruntimeconfig.cache
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\ref\WorkOrders_DAL.dll
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\bin\Debug\net6.0\runtimes\win-x64\native\wkhtmltox.dll
+D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_DAL\bin\Debug\net6.0\runtimes\win-x86\native\wkhtmltox.dll
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\bin\Debug\net6.0\runtimes\win-x64\native\wkhtmltox.dll
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\bin\Debug\net6.0\runtimes\win-x86\native\wkhtmltox.dll
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\bin\Debug\net6.0\WorkOrders_DAL.deps.json
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\bin\Debug\net6.0\WorkOrders_DAL.runtimeconfig.json
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\bin\Debug\net6.0\WorkOrders_DAL.dll
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\bin\Debug\net6.0\WorkOrders_DAL.pdb
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\bin\Debug\net6.0\WorkOrders_BAL.dll
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\bin\Debug\net6.0\WorkOrders_BAL.pdb
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.csproj.AssemblyReference.cache
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.AssemblyInfoInputs.cache
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.AssemblyInfo.cs
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.csproj.CoreCompileInputs.cache
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.csproj.CopyComplete
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.dll
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\refint\WorkOrders_DAL.dll
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.pdb
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\WorkOrders_DAL.genruntimeconfig.cache
+D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_DAL\obj\Debug\net6.0\ref\WorkOrders_DAL.dll
