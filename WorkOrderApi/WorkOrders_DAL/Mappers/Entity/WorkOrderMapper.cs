@@ -43,11 +43,6 @@ namespace WorkOrders_DAL.Mappers.Repositories
         {
             initalizeRequiredRepositories();
 
-            if (!LaborRates.Exists(x => x.TechsCount == dto.Techs))
-            {
-                throw new Exception(Constants.ERROR_TECHS_COUNT_NOT_MATCHING);
-            }
-
             // WorkOrder Id
             if (dto.WO != null)
             {
@@ -96,6 +91,11 @@ namespace WorkOrders_DAL.Mappers.Repositories
             }
             if (dto.Techs != null)
             {
+                if (!LaborRates.Exists(x => x.TechsCount == dto.Techs))
+                {
+                    throw new Exception(Constants.ERROR_TECHS_COUNT_NOT_MATCHING);
+                }
+
                 entity.Techs = (int)dto.Techs;
             }
             if (dto.WtyLbr != null)
@@ -147,6 +147,33 @@ namespace WorkOrders_DAL.Mappers.Repositories
             };
 
             return entity;
+        }
+
+        public WorkOrderDto Map(WorkOrderDtoExcel dtoExcel)
+        {
+            WorkOrderDto dto = new WorkOrderDto(new Guid())
+            {
+                // WorkOrder Id
+                WO = dtoExcel.WO,
+
+                // Relations
+                District = dtoExcel.District,
+                Leadtech = dtoExcel.Leadtech,
+                Service = dtoExcel.Service,
+                Payment = dtoExcel.Payment,
+
+                // Fields
+                Rush = dtoExcel.Rush,
+                ReqDate = (DateTime)dtoExcel.ReqDate,
+                WorkDate = dtoExcel.WorkDate,
+                Techs = (int)dtoExcel.Techs,
+                WtyLbr = dtoExcel.WtyLbr,
+                WtyParts = dtoExcel.WtyParts,
+                LbrHrs = dtoExcel.LbrHrs,
+                PartsCost = (decimal)dtoExcel.PartsCost
+            };
+
+            return dto;
         }
 
         public override WorkOrderDto Map(WorkOrderEntity entity)

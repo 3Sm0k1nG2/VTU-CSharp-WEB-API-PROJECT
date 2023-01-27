@@ -1,13 +1,15 @@
-﻿using WorkOrders_BAL.Dtos.Base;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using WorkOrders_BAL.Dtos.Base;
+using WorkOrders_BAL.Interfaces;
 
 namespace WorkOrders_BAL.Dtos.WorkOrder
 {
-    public class WorkOrderDto : DtoBase
+    public class WorkOrderDtoExcel
     {
-        // Constructors
-        public WorkOrderDto() : base() { }
-        public WorkOrderDto(Guid id) : base(id) { }
-        
 
         // Fields
         public string WO { get; set; }        // unique work order ID

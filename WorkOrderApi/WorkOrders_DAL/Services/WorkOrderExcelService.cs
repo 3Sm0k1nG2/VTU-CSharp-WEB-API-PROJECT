@@ -4,16 +4,18 @@ using WorkOrders_BAL.Entities;
 using WorkOrders_DAL.DbContexts;
 using WorkOrders_DAL.Interfaces.Mappers.Entity.Base;
 using WorkOrders_DAL.Interfaces.Mappers.Excel.Base;
+using WorkOrders_DAL.Mappers.Excel;
+using WorkOrders_DAL.Mappers.Repositories;
 
 namespace WorkOrders_DAL.Services
 {
     public class WorkOrderExcelService
     {
         private WorkOrderDbContext _context;
-        private IExcelMapper<WorkOrderEntity, WorkOrderDto> _excelMapper;
-        private IEntityMapper<WorkOrderEntity, WorkOrderDto, WorkOrderPatchDto> _mapper;
+        private WorkOrderExcelMapper _excelMapper;
+        private WorkOrderMapper _mapper;
 
-        public WorkOrderExcelService(WorkOrderDbContext context, IExcelMapper<WorkOrderEntity, WorkOrderDto> excelMapper, IEntityMapper<WorkOrderEntity, WorkOrderDto, WorkOrderPatchDto> mapper)
+        public WorkOrderExcelService(WorkOrderDbContext context, WorkOrderExcelMapper excelMapper, WorkOrderMapper mapper)
         {
             _context = context;
             _excelMapper = excelMapper;
@@ -47,8 +49,8 @@ namespace WorkOrders_DAL.Services
                     {
                         var recordRow = table.Rows[i];
 
-                        WorkOrderDto dto = _excelMapper.MapFromDataRow(recordRow);
-                        dtos.Add(dto);
+                        WorkOrderDtoExcel dto = _excelMapper.MapFromDataRow(recordRow);
+                        dtos.Add(_mapper.Map(dto));
                     }
 
                     return dtos;

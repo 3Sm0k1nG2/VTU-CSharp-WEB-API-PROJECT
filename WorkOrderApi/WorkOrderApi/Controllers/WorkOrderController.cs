@@ -116,7 +116,7 @@ namespace WorkOrderApi.Controllers
 
             dtos = await excelService.SaveToDb(dtos);
 
-            return Ok(dtos);
+            return Ok("SExcel read and written to DB.");
         }
 
         private WorkOrderExcelService GetExcelService()

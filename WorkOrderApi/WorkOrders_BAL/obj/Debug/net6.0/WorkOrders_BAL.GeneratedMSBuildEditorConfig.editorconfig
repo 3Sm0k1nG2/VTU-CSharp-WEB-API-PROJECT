@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WorkOrders_BAL
-build_property.ProjectDir = D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_BAL\
+build_property.ProjectDir = D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_BAL\

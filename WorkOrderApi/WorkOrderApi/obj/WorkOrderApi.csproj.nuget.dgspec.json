@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrderApi\\WorkOrderApi.csproj": {}
+    "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrderApi\\WorkOrderApi.csproj": {}
   },
   "projects": {
-    "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrderApi\\WorkOrderApi.csproj": {
+    "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrderApi\\WorkOrderApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrderApi\\WorkOrderApi.csproj",
+        "projectUniqueName": "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrderApi\\WorkOrderApi.csproj",
         "projectName": "WorkOrderApi",
-        "projectPath": "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrderApi\\WorkOrderApi.csproj",
+        "projectPath": "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrderApi\\WorkOrderApi.csproj",
         "packagesPath": "C:\\Users\\3Sm0k\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrderApi\\obj\\",
+        "outputPath": "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrderApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\3Sm0k\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrders_BAL\\WorkOrders_BAL.csproj": {
-                "projectPath": "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrders_BAL\\WorkOrders_BAL.csproj"
+              "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrders_BAL\\WorkOrders_BAL.csproj": {
+                "projectPath": "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrders_BAL\\WorkOrders_BAL.csproj"
               },
-              "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrders_DAL\\WorkOrders_DAL.csproj": {
-                "projectPath": "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrders_DAL\\WorkOrders_DAL.csproj"
+              "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrders_DAL\\WorkOrders_DAL.csproj": {
+                "projectPath": "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrders_DAL\\WorkOrders_DAL.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrders_BAL\\WorkOrders_BAL.csproj": {
+    "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrders_BAL\\WorkOrders_BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrders_BAL\\WorkOrders_BAL.csproj",
+        "projectUniqueName": "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrders_BAL\\WorkOrders_BAL.csproj",
         "projectName": "WorkOrders_BAL",
-        "projectPath": "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrders_BAL\\WorkOrders_BAL.csproj",
+        "projectPath": "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrders_BAL\\WorkOrders_BAL.csproj",
         "packagesPath": "C:\\Users\\3Sm0k\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrders_BAL\\obj\\",
+        "outputPath": "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrders_BAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\3Sm0k\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,14 +142,14 @@
         }
       }
     },
-    "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrders_DAL\\WorkOrders_DAL.csproj": {
+    "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrders_DAL\\WorkOrders_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrders_DAL\\WorkOrders_DAL.csproj",
+        "projectUniqueName": "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrders_DAL\\WorkOrders_DAL.csproj",
         "projectName": "WorkOrders_DAL",
-        "projectPath": "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrders_DAL\\WorkOrders_DAL.csproj",
+        "projectPath": "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrders_DAL\\WorkOrders_DAL.csproj",
         "packagesPath": "C:\\Users\\3Sm0k\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrders_DAL\\obj\\",
+        "outputPath": "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrders_DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\3Sm0k\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,8 +166,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrders_BAL\\WorkOrders_BAL.csproj": {
-                "projectPath": "D:\\CSharp-WEB-API-PROJECT\\WorkOrderApi\\WorkOrders_BAL\\WorkOrders_BAL.csproj"
+              "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrders_BAL\\WorkOrders_BAL.csproj": {
+                "projectPath": "D:\\VTU-Programming\\02. Second Year\\01. First Semester\\API\\Project\\WorkOrderApi\\WorkOrders_BAL\\WorkOrders_BAL.csproj"
               }
             }
           }

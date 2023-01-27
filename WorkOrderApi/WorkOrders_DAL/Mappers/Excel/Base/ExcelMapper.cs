@@ -24,6 +24,9 @@ namespace WorkOrders_DAL.Mappers.Excel.Base
                 var value = values[i];
                 var field = _FIELDS[i];
 
+                if (field.Name == "Id")
+                    continue;
+
                 PropertyInfo dtoProp = _TYPE.GetProperty(field.Name);
 
                 if (value is DBNull || dtoProp == null)

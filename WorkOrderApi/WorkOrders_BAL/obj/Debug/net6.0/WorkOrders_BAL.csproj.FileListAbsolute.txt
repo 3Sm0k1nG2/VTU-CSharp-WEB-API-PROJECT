@@ -10,15 +10,3 @@ D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\W
 D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_BAL\obj\Debug\net6.0\refint\WorkOrders_BAL.dll
 D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_BAL\obj\Debug\net6.0\WorkOrders_BAL.pdb
 D:\VTU-Programming\02. Second Year\01. First Semester\API\Project\WorkOrderApi\WorkOrders_BAL\obj\Debug\net6.0\ref\WorkOrders_BAL.dll
-D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_BAL\bin\Debug\net6.0\WorkOrders_BAL.deps.json
-D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_BAL\bin\Debug\net6.0\WorkOrders_BAL.dll
-D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_BAL\bin\Debug\net6.0\WorkOrders_BAL.pdb
-D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_BAL\obj\Debug\net6.0\WorkOrders_BAL.csproj.AssemblyReference.cache
-D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_BAL\obj\Debug\net6.0\WorkOrders_BAL.GeneratedMSBuildEditorConfig.editorconfig
-D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_BAL\obj\Debug\net6.0\WorkOrders_BAL.AssemblyInfoInputs.cache
-D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_BAL\obj\Debug\net6.0\WorkOrders_BAL.AssemblyInfo.cs
-D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_BAL\obj\Debug\net6.0\WorkOrders_BAL.csproj.CoreCompileInputs.cache
-D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_BAL\obj\Debug\net6.0\WorkOrders_BAL.dll
-D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_BAL\obj\Debug\net6.0\refint\WorkOrders_BAL.dll
-D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_BAL\obj\Debug\net6.0\WorkOrders_BAL.pdb
-D:\CSharp-WEB-API-PROJECT\WorkOrderApi\WorkOrders_BAL\obj\Debug\net6.0\ref\WorkOrders_BAL.dll
